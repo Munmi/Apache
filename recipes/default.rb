@@ -4,4 +4,4 @@
 #
 # Copyright (c) 2018 The Authors, All Rights Reserved.
 
-include_recipe 'apache::server'
+include_recipe 'Apache::server'
